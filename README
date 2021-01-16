@@ -1,10 +1,10 @@
 This is a "plugin" for the Video Disk Recorder (VDR).
 
 Written by:                  Andreas Brugger <brougs78@gmx.net> (initiator)
-			     Uwe Hanke <egal@egal-vdr.de>
+                             Uwe Hanke <egal@egal-vdr.de>
 
 Project's homepage:          http://home.pages.at/brougs78 (old version)
-			     http://www.egal-vdr.de/plugins 
+                             http://www.egal-vdr.de/plugins 
 
 Latest version available at: http://www.egal-vdr.de/plugins 
 
@@ -32,6 +32,8 @@ Overlays "cinema-bars" over the live picture
 
  - keys 'Up/Down' toggles top/bottom bar
  - keys 'Right/Left' increase/decrease barheight of actual visible bar(s)
- - key '0' close/open screen
- - keys 'Ok/Back/Blue' exit plugin
+ - keys 'Back/Blue' exit plugin 
+ - key  'Red' close/open screen
+ - key  'Ok' close screen and exit plugin
+ - keys 'Green/Yellow' change color of bars
  

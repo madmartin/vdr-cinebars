@@ -7,23 +7,23 @@ msgid ""
 msgstr ""
 "Project-Id-Version: VDR 1.5.7\n"
 "Report-Msgid-Bugs-To: <see README>\n"
-"POT-Creation-Date: 2013-04-25 13:00+0200\n"
-"PO-Revision-Date: 2007-12-29 18:35+0100\n"
-"Last-Translator: Gringo <vdr-italian@tiscali.it>\n"
-"Language-Team:  <vdr@linuxtv.org>\n"
+"POT-Creation-Date: 2013-05-03 20:35+0200\n"
+"PO-Revision-Date: 2007-08-24 18:40+0200\n"
+"Last-Translator: Patrice Staudt patrice.staudt@laposte.net\n"
+"Language-Team: <vdr@linuxtv.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=ISO-8859-15\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Overlays \"cinebars\""
-msgstr "Sovrappone barre cinematografiche"
+msgstr "Superposition \"des barres cinéna \" sur l'image"
 
 msgid "Cinebars"
-msgstr "Barre cinema"
+msgstr "Barre cinéma"
 
 msgid "manual"
-msgstr "manuale"
+msgstr ""
 
 msgid "black"
 msgstr ""
@@ -44,31 +44,31 @@ msgid "blue"
 msgstr ""
 
 msgid "Hide mainmenu entry"
-msgstr "Nascondi voce menu principale"
+msgstr "Invisible dans le menu principale"
 
 msgid "Bar color"
-msgstr "Colore della barra"
+msgstr ""
 
 msgid "Top bar"
-msgstr "Barra superiore"
+msgstr "Barre en haut"
 
 msgid "Top bar height"
-msgstr "Altezza barra superiore"
+msgstr "Hauteur barre en haut"
 
 msgid "Bottom bar"
-msgstr "Barra inferiore"
+msgstr "Barre en bas"
 
 msgid "Bottom bar height"
-msgstr "Altezza barra inferiore"
+msgstr "Hauteur barre en bas"
 
 msgid "Step size"
-msgstr "Scala grandezza della barra"
+msgstr "Pas sur la hauteur de barre cinéma"
 
 msgid "OSD size"
-msgstr "Grandezza OSD"
+msgstr ""
 
 msgid "OSD width"
-msgstr "Ampiezza OSD"
+msgstr ""
 
 msgid "OSD height"
-msgstr "Altezza OSD"
+msgstr ""
