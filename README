@@ -4,9 +4,10 @@ Written by:                  Andreas Brugger <brougs78@gmx.net> (initiator)
                              Uwe Hanke <egal@egal-vdr.de>
 
 Project's homepage:          http://home.pages.at/brougs78 (old version)
-                             http://www.egal-vdr.de/plugins 
+                             http://www.egal-vdr.de/plugins (old version)
+                             https://github.com/madmartin/vdr-cinebars
 
-Latest version available at: http://www.egal-vdr.de/plugins 
+Latest version available at: https://github.com/madmartin/vdr-cinebars
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -23,17 +24,17 @@ with this program; if not, write to the Free Software Foundation, Inc.,
 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 
 The complete text of the GNU General Public License can be found
-in /usr/share/common-licenses/GPL on most Debian systems.
+at https://www.gnu.org/licenses/gpl-2.0.txt
 
 
 Description
 -----------
-Overlays "cinema-bars" over the live picture
+Overlays "cinema-bars" over the live picture.
+This is useful to cover TV station logos or annoying news tickers.
 
  - keys 'Up/Down' toggles top/bottom bar
- - keys 'Right/Left' increase/decrease barheight of actual visible bar(s)
- - keys 'Back/Blue' exit plugin 
+ - keys 'Right/Left' increase/decrease the height of currently visible bar(s)
+ - keys 'Back/Blue' exit the plugin
  - key  'Red' close/open screen
- - key  'Ok' close screen and exit plugin
+ - key  'Ok' close screen and exit the plugin
  - keys 'Green/Yellow' change color of bars
- 
