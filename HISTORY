@@ -1,5 +1,13 @@
 VDR Plugin 'cinebars' Revision History
 --------------------------------------
+2021-01-17: Version 0.1.1, M.Dummer (martin.dummer@gmx.net)
+ - "rescue" release, code recovered with the help of the
+   "Wayback machine" from http://web.archive.org/
+ - Add github to the list of homepages, other homepages are are all
+   not reachable any more
+ - Rework Makefile (generated with 'newplugin' from vdr-2.4.1), add
+   git version information for further development
+
 2013-04-28: Version 0.1.0, M.Wernecke (zulu@zulu-entertainment.de)
  - Added Makefile for vdr >= 1.7.36
  - Minimum required VDR version is 1.6.0

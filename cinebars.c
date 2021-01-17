@@ -12,7 +12,7 @@
 #define GITVERSION ""
 #endif
 
-static const char *VERSION        = "0.1.0" GITVERSION;
+static const char *VERSION        = "0.1.1" GITVERSION;
 static const char *DESCRIPTION    = trNOOP("Overlays \"cinebars\"");
 static const char *MAINMENUENTRY  = trNOOP("Cinebars");
 
